@@ -1,0 +1,35 @@
+name: dondelucho
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  # Firebase dependencies
+  firebase_core: ^2.18.0    # Asegúrate de tener la última versión disponible
+  firebase_auth: ^4.7.3     # Asegúrate de tener la última versión disponible
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  google_maps_flutter: ^2.0.6
+  
+  flutter_lints: ^4.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/imagen_fondo.jpg
+    - assets/imagen_logo.jpg
+    - assets/imagen_logo2.jpg
+    - assets/pollo_brasa.png

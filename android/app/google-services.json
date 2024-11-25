@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636794324471",
+    "project_id": "dondelucho-cd91b",
+    "storage_bucket": "dondelucho-cd91b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636794324471:android:4022363148375d9ad4daf2",
+        "android_client_info": {
+          "package_name": "com.company.dondelucho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs37o_4EwSnW6WwD884hbqpTsINsnKeXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
